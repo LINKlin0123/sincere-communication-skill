@@ -158,8 +158,9 @@ sincere-communication-skill/
 ├── references/
 │   ├── apology.md               # 道歉三段 + 五种道歉语言
 │   ├── letter.md                # 心里话框架
-│   ├── conversation.md           # 非暴力沟通四要素
-│   └── de-ai-rules.md           # 去 AI 味规则 + 自检清单
+│   ├── conversation.md          # 非暴力沟通四要素
+│   ├── de-ai-rules.md           # 去 AI 味规则（负面清单）+ 自检
+│   └── real-patterns.md         # 真人说话模式（正面清单，从真实案例提炼）
 ├── examples/
 │   ├── apology-example.md       # 道歉示例
 │   ├── letter-example.md        # 心里话示例

@@ -28,8 +28,8 @@ description: 帮人写道歉、心里话（情书/表白/纪念日）、处理�
 - 对话 → references/conversation.md
 
 ### 第三步：写，然后去 AI 味
-按 references/de-ai-rules.md 写。
-写完对照该文件末尾的检查清单逐条过，有违反就改，改完再输出。
+按 references/de-ai-rules.md 写（别写什么），同时参考 references/real-patterns.md（真人会写什么）。
+写完两个文件都过一遍，有违反就改，改完再输出。
 
 ## 硬规则
 - 必须用上采集到的至少 2 个具体细节
