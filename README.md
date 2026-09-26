@@ -13,21 +13,17 @@
 
 ## 快速开始
 
-**装：** 把整个文件夹下载下来，丢进你 agent 的 skills 目录：
+把这句话发给你的 AI agent，它会自己装好：
 
 ```
-Claude Code:  ~/.claude/skills/sincere-communication-skill/
-Cursor:       你的项目/.cursor/skills/sincere-communication-skill/
-其他 agent:    放进各自识别的 skills 目录
+把 https://github.com/LINKlin0123/sincere-communication-skill clone 到你的 skills 目录，装好后告诉我。
 ```
 
-**用：** 重启 agent，新开对话，直接说人话就行：
+装好之后直接说：
 
-> "我跟她吵架了，两天没说话了，帮我想想要怎么开口"
-
-它会先问你情绪和背景，然后给你分步方案——先发什么、他回了怎么接、不回怎么办。
-
-**就这么简单。** 不需要装依赖，不需要联网，不需要配置。
+```
+我跟她吵架了，两天没说话了，帮我想想要怎么开口
+```
 
 ---
 
