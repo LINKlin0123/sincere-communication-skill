@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 使用效果反馈
+    url: https://github.com/LINKlin0123/sincere-communication-skill/issues/new?template=feedback.md
+    about: 用了之后效果怎么样？哪里写得好、哪里还是 AI 味
+  - name: 讨论区
+    url: https://github.com/LINKlin0123/sincere-communication-skill/discussions
+    about: 闲聊、提问、分享你自己的道歉/沟通经验
