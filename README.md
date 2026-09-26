@@ -1,5 +1,11 @@
 # sincere-communication-skill（真诚沟通 skill）
 
+![Stars](https://img.shields.io/github/stars/LINKlin0123/sincere-communication-skill?style=flat-square)
+![Forks](https://img.shields.io/github/forks/LINKlin0123/sincere-communication-skill?style=flat-square)
+![Issues](https://img.shields.io/github/issues/LINKlin0123/sincere-communication-skill?style=flat-square)
+![License](https://img.shields.io/github/license/LINKlin0123/sincere-communication-skill?style=flat-square)
+![Version](https://img.shields.io/github/v/tag/LINKlin0123/sincere-communication-skill?style=flat-square)
+
 一个给 AI agent 用的沟通 skill。帮你写**道歉、心里话（情书/表白/纪念日）、高难度对话脚本**。
 
 它不堆漂亮话。它先问清楚到底发生了什么，再按成熟的沟通框架组织语言，最后把 AI 味洗掉，写到像你本人发微信。
